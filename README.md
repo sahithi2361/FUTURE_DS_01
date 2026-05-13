@@ -1,20 +1,15 @@
-Customer Churn Analysis Dashboard – Power BI
+ Superstore Analytics Dashboard – Power BI
 
-This project is a Customer Churn Analysis Dashboard built using Power BI to analyze customer behavior, identify churn patterns, and generate business insights through interactive visualizations.
+This project is a Superstore Analytics Dashboard created using Power BI to analyze sales performance, profit trends, customer behavior, and regional business insights through interactive visualizations.
 
 📊 Features
 
-* Customer churn analysis based on:
-
-  * Contract Type
-  * Tenure
-  * Payment Method
-  * Internet Service
-  * Monthly Charges
-* Interactive dashboards and slicers
-* KPI cards for total customers, churn rate, and active customers
-* Donut, bar, and line charts for better visualization
-* Data cleaning and transformation using Power Query
+* Sales and profit analysis across different regions
+* Category and sub-category performance tracking
+* Customer segment analysis
+* Monthly and yearly sales trends
+* Interactive filters and slicers for dynamic reporting
+* KPI cards for total sales, profit, orders, and quantity
 
  🛠️ Tools & Technologies
 
@@ -23,21 +18,22 @@ This project is a Customer Churn Analysis Dashboard built using Power BI to anal
 * DAX
 * Excel/CSV Dataset
 
- 📈 Insights Generated
+ 📈 Key Insights
 
-* Customers with monthly contracts have higher churn rates
-* Shorter tenure customers are more likely to churn
-* Certain payment methods and internet services show increased churn behavior
+* Identified top-performing product categories and regions
+* Analyzed profit and loss trends across different segments
+* Tracked sales growth over time
+* Compared performance between customer segments and shipping modes
 
  📂 Project Files
 
- `analysis.pbix` – Main Power BI dashboard file
- Dataset used for visualization and analysis
+* `Superstore_Analytics_Dashboard.pbix` – Main Power BI dashboard file
+* Dataset used for analysis and visualization
 
  🚀 Purpose
 
-The goal of this project is to help businesses understand customer retention trends and make data-driven decisions to reduce churn.
+The purpose of this project is to transform raw retail data into meaningful business insights that help improve decision-making and overall business performance.
 
 
 
-⭐ If you like this project, give it a star on GitHub!
+⭐ If you found this project useful, consider giving it a star on GitHub!
